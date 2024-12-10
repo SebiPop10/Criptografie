@@ -1,0 +1,8 @@
+C:\Users\sebip\Probleme faculta\Criptografie_Lab1\Implementare_procedurala\bin\Debug\Letters.txt
+C:\Users\sebip\Probleme faculta\Criptografie_Lab1\Implementare_procedurala\bin\Debug\Implementare_procedurala.exe.config
+C:\Users\sebip\Probleme faculta\Criptografie_Lab1\Implementare_procedurala\bin\Debug\Implementare_procedurala.exe
+C:\Users\sebip\Probleme faculta\Criptografie_Lab1\Implementare_procedurala\bin\Debug\Implementare_procedurala.pdb
+C:\Users\sebip\Probleme faculta\Criptografie_Lab1\Implementare_procedurala\obj\Debug\Implementare_procedurala.csproj.AssemblyReference.cache
+C:\Users\sebip\Probleme faculta\Criptografie_Lab1\Implementare_procedurala\obj\Debug\Implementare_procedurala.csproj.CoreCompileInputs.cache
+C:\Users\sebip\Probleme faculta\Criptografie_Lab1\Implementare_procedurala\obj\Debug\Implementare_procedurala.exe
+C:\Users\sebip\Probleme faculta\Criptografie_Lab1\Implementare_procedurala\obj\Debug\Implementare_procedurala.pdb

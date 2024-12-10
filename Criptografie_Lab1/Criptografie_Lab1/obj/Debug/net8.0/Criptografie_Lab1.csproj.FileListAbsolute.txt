@@ -1,0 +1,14 @@
+C:\Users\sebip\Probleme faculta\Criptografie_Lab1\Criptografie_Lab1\bin\Debug\net8.0\Criptografie_Lab1.exe
+C:\Users\sebip\Probleme faculta\Criptografie_Lab1\Criptografie_Lab1\bin\Debug\net8.0\Criptografie_Lab1.deps.json
+C:\Users\sebip\Probleme faculta\Criptografie_Lab1\Criptografie_Lab1\bin\Debug\net8.0\Criptografie_Lab1.runtimeconfig.json
+C:\Users\sebip\Probleme faculta\Criptografie_Lab1\Criptografie_Lab1\bin\Debug\net8.0\Criptografie_Lab1.dll
+C:\Users\sebip\Probleme faculta\Criptografie_Lab1\Criptografie_Lab1\bin\Debug\net8.0\Criptografie_Lab1.pdb
+C:\Users\sebip\Probleme faculta\Criptografie_Lab1\Criptografie_Lab1\obj\Debug\net8.0\Criptografie_Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebip\Probleme faculta\Criptografie_Lab1\Criptografie_Lab1\obj\Debug\net8.0\Criptografie_Lab1.AssemblyInfoInputs.cache
+C:\Users\sebip\Probleme faculta\Criptografie_Lab1\Criptografie_Lab1\obj\Debug\net8.0\Criptografie_Lab1.AssemblyInfo.cs
+C:\Users\sebip\Probleme faculta\Criptografie_Lab1\Criptografie_Lab1\obj\Debug\net8.0\Criptografie_Lab1.csproj.CoreCompileInputs.cache
+C:\Users\sebip\Probleme faculta\Criptografie_Lab1\Criptografie_Lab1\obj\Debug\net8.0\Criptografie_Lab1.dll
+C:\Users\sebip\Probleme faculta\Criptografie_Lab1\Criptografie_Lab1\obj\Debug\net8.0\refint\Criptografie_Lab1.dll
+C:\Users\sebip\Probleme faculta\Criptografie_Lab1\Criptografie_Lab1\obj\Debug\net8.0\Criptografie_Lab1.pdb
+C:\Users\sebip\Probleme faculta\Criptografie_Lab1\Criptografie_Lab1\obj\Debug\net8.0\Criptografie_Lab1.genruntimeconfig.cache
+C:\Users\sebip\Probleme faculta\Criptografie_Lab1\Criptografie_Lab1\obj\Debug\net8.0\ref\Criptografie_Lab1.dll
