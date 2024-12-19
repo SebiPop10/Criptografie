@@ -1,0 +1,14 @@
+C:\Users\sebip\Probleme faculta\PlayfairCipher\PlayfairCipher\bin\Debug\net8.0\PlayfairCipher.exe
+C:\Users\sebip\Probleme faculta\PlayfairCipher\PlayfairCipher\bin\Debug\net8.0\PlayfairCipher.deps.json
+C:\Users\sebip\Probleme faculta\PlayfairCipher\PlayfairCipher\bin\Debug\net8.0\PlayfairCipher.runtimeconfig.json
+C:\Users\sebip\Probleme faculta\PlayfairCipher\PlayfairCipher\bin\Debug\net8.0\PlayfairCipher.dll
+C:\Users\sebip\Probleme faculta\PlayfairCipher\PlayfairCipher\bin\Debug\net8.0\PlayfairCipher.pdb
+C:\Users\sebip\Probleme faculta\PlayfairCipher\PlayfairCipher\obj\Debug\net8.0\PlayfairCipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebip\Probleme faculta\PlayfairCipher\PlayfairCipher\obj\Debug\net8.0\PlayfairCipher.AssemblyInfoInputs.cache
+C:\Users\sebip\Probleme faculta\PlayfairCipher\PlayfairCipher\obj\Debug\net8.0\PlayfairCipher.AssemblyInfo.cs
+C:\Users\sebip\Probleme faculta\PlayfairCipher\PlayfairCipher\obj\Debug\net8.0\PlayfairCipher.csproj.CoreCompileInputs.cache
+C:\Users\sebip\Probleme faculta\PlayfairCipher\PlayfairCipher\obj\Debug\net8.0\PlayfairCipher.dll
+C:\Users\sebip\Probleme faculta\PlayfairCipher\PlayfairCipher\obj\Debug\net8.0\refint\PlayfairCipher.dll
+C:\Users\sebip\Probleme faculta\PlayfairCipher\PlayfairCipher\obj\Debug\net8.0\PlayfairCipher.pdb
+C:\Users\sebip\Probleme faculta\PlayfairCipher\PlayfairCipher\obj\Debug\net8.0\PlayfairCipher.genruntimeconfig.cache
+C:\Users\sebip\Probleme faculta\PlayfairCipher\PlayfairCipher\obj\Debug\net8.0\ref\PlayfairCipher.dll

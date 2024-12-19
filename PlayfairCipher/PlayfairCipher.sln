@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayfairCipher", "PlayfairCipher\PlayfairCipher.csproj", "{A5638A9E-AED1-4795-A8C3-20B35D882961}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5638A9E-AED1-4795-A8C3-20B35D882961}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5638A9E-AED1-4795-A8C3-20B35D882961}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5638A9E-AED1-4795-A8C3-20B35D882961}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5638A9E-AED1-4795-A8C3-20B35D882961}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37DF286D-1FEA-4487-B234-D58A52E5B260}
+	EndGlobalSection
+EndGlobal
