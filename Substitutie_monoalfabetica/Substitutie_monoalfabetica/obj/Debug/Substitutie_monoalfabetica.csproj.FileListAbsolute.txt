@@ -1,0 +1,7 @@
+C:\Users\sebip\Probleme faculta\Substitutie_monoalfabetica\Substitutie_monoalfabetica\bin\Debug\Substitutie_monoalfabetica.exe.config
+C:\Users\sebip\Probleme faculta\Substitutie_monoalfabetica\Substitutie_monoalfabetica\bin\Debug\Substitutie_monoalfabetica.exe
+C:\Users\sebip\Probleme faculta\Substitutie_monoalfabetica\Substitutie_monoalfabetica\bin\Debug\Substitutie_monoalfabetica.pdb
+C:\Users\sebip\Probleme faculta\Substitutie_monoalfabetica\Substitutie_monoalfabetica\obj\Debug\Substitutie_monoalfabetica.csproj.AssemblyReference.cache
+C:\Users\sebip\Probleme faculta\Substitutie_monoalfabetica\Substitutie_monoalfabetica\obj\Debug\Substitutie_monoalfabetica.csproj.CoreCompileInputs.cache
+C:\Users\sebip\Probleme faculta\Substitutie_monoalfabetica\Substitutie_monoalfabetica\obj\Debug\Substitutie_monoalfabetica.exe
+C:\Users\sebip\Probleme faculta\Substitutie_monoalfabetica\Substitutie_monoalfabetica\obj\Debug\Substitutie_monoalfabetica.pdb
