@@ -1,0 +1,7 @@
+C:\Users\sebip\Probleme faculta\Cilindrul_Jefferson\Cilindrul_Jefferson\bin\Debug\Cilindrul_Jefferson.exe.config
+C:\Users\sebip\Probleme faculta\Cilindrul_Jefferson\Cilindrul_Jefferson\bin\Debug\Cilindrul_Jefferson.exe
+C:\Users\sebip\Probleme faculta\Cilindrul_Jefferson\Cilindrul_Jefferson\bin\Debug\Cilindrul_Jefferson.pdb
+C:\Users\sebip\Probleme faculta\Cilindrul_Jefferson\Cilindrul_Jefferson\obj\Debug\Cilindrul_Jefferson.csproj.AssemblyReference.cache
+C:\Users\sebip\Probleme faculta\Cilindrul_Jefferson\Cilindrul_Jefferson\obj\Debug\Cilindrul_Jefferson.csproj.CoreCompileInputs.cache
+C:\Users\sebip\Probleme faculta\Cilindrul_Jefferson\Cilindrul_Jefferson\obj\Debug\Cilindrul_Jefferson.exe
+C:\Users\sebip\Probleme faculta\Cilindrul_Jefferson\Cilindrul_Jefferson\obj\Debug\Cilindrul_Jefferson.pdb
